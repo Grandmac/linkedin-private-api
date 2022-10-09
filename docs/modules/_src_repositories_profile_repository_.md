@@ -20,7 +20,7 @@
 
 ▸ `Const`**getProfilesFromResponse**<T\>(`response`: T): Record<[ProfileId](_src_entities_mini_profile_entity_.md#profileid), [MiniProfile](../interfaces/_src_entities_mini_profile_entity_.miniprofile.md)\>
 
-*Defined in [src/repositories/profile.repository.ts:20](https://github.com/eilonmore/linkedin-private-api/blob/d17dc2a/src/repositories/profile.repository.ts#L20)*
+*Defined in [src/repositories/profile.repository.ts:20](https://github.com/Grandmac/linkedin-private-api/blob/e3fbfd3/src/repositories/profile.repository.ts#L20)*
 
 #### Type parameters:
 
